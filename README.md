@@ -5,6 +5,8 @@ Abandone o caos das planilhas e transforme dados brutos em informações organiz
 
 O **Data Processor Dashboard** permite colar dados diretamente no sistema e convertê-los em registros estruturados, organizados em um banco de dados com visualização em dashboard.
 
+Link de Acesso: https://data-processor-dashboard--soccyber7.replit.app/
+
 Ideal para quem trabalha com grandes volumes de dados copiados de planilhas, relatórios ou sistemas externos.
 
 ---
